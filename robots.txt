@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /ferramentas/
+
+Sitemap: https://petkabana.pages.dev/sitemap.xml
